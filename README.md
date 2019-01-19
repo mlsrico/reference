@@ -12,3 +12,4 @@
 
 - [R for Data Science])https://r4ds.had.co.nz/): a nice introduction to the tidyverse and R in general by the man himself.
 - [Advanced R](http://adv-r.had.co.nz/): you didn´t have enough? Here you go. More R. More Hadley.
+- [Shared folder in Google Drive](https://drive.google.com/drive/u/2/folders/1M-lLxvZh1b_h3H4rWZg4nayPHAI7LD3Z)
